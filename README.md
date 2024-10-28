@@ -2,6 +2,14 @@
 All data projects made by me
 
 
-**SQL**
+## SQL
 
-When was the golden era of video games? - [Link](video_games.sql)
+### When was the golden era of video games?
+
+Code: [When was the golden era of video games?](video_games.sql)
+
+Description: 
+
+### Analyze International Debt Statistics
+
+Code: 
