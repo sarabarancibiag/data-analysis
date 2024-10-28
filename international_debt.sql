@@ -1,4 +1,4 @@
--- num_distinct_countries 
+-- Number of distinct Countries 
 
 SELECT * 
 FROM (
@@ -7,7 +7,7 @@ FROM (
 ) AS num_distinct_countries
 
 
--- highest_debt_country 
+-- Country with the highest debt 
 
 SELECT *
 FROM (
@@ -19,8 +19,7 @@ FROM (
 ) AS highest_debt_country
 
 
--- lowest_principal_repayment 
--- Write your query here... 
+-- Country with the lowest repayment 
 
 SELECT *
 FROM (
