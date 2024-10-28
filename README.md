@@ -8,7 +8,7 @@ All data projects made by me
 
 Code: [When was the golden era of video games?](video_games.sql)
 
-Description: 
+Description: Practiced JOIN tables, learned how to ROUND results, and how to sum or substract columns to create new ones.
 
 ### Analyze International Debt Statistics
 
@@ -20,4 +20,4 @@ Description:
 
 Code: [Analyzing Baby Names Data](baby_names.sql)
 
-Description: 
+Description:  Learned to use the CASE function to classify baby names between 'Classic' or 'Trendy' according to their frequency across the dataset.
