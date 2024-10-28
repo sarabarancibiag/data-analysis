@@ -15,3 +15,7 @@ Description:
 Code: [Analyzing International Debt](international_debt.sql)
 
 Description: 
+
+### Trends in Baby Names
+
+Code: [Analyzing Baby Names Data]()
