@@ -19,3 +19,5 @@ Description:
 ### Trends in Baby Names
 
 Code: [Analyzing Baby Names Data](baby_names.sql)
+
+Description: 
