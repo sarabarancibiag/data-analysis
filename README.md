@@ -12,4 +12,6 @@ Description:
 
 ### Analyze International Debt Statistics
 
-Code: 
+Code: [Analyzing International Debt](international_debt.sql)
+
+Description: 
